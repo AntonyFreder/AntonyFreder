@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AntonyFrederic Vass
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python and have self study basics of C++
+- 💞️ I’m looking to collaborate on projects!
+-
